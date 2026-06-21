@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="GlobalUsings.cs" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MiniForum/MiniForum.csproj" />
+</Solution>
